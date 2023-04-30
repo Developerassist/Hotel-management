@@ -1,4 +1,4 @@
-Database connectivity is done via Mysql 
+Database connectivity is done via Mysql.
 The constraint of the table of the Database are in such a way
 ![Screenshot (24)](https://user-images.githubusercontent.com/113855998/235346426-d29799fd-6a5b-4990-b65a-9701147edfee.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/113855998/235346429-9e8068af-2a9b-4b3b-83be-6a044deb1907.png)
